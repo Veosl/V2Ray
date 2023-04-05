@@ -63,7 +63,7 @@ Nodes filtered using speedtest measurement will be stored in following files:
 * Group 1 (Contains free public nodes)
 - [Base64](https://raw.githubusercontent.com/Veosl/V2Ray/master/Eternity)
 - [Mixed](https://raw.githubusercontent.com/Veosl/V2Ray/master/Eternity.txt)
-~~- [Clash]~~
+-  ~~[Clash]~~
 
 * Group 2 (Contains only free airports)(*200)
 - [Base64](https://raw.githubusercontent.com/mahdibland/ShadowsocksAggregator/master/EternityAir)
