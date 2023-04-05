@@ -55,17 +55,17 @@ The speed measurement function is implemented in the `GitHub Actions` environmen
 - Depending on your internet provider and location, some nodes might not work.
 
 
-### Ready to import (200 filtered nodes)
+### Ready to import (400 filtered nodes)
 > Just import the following subscription link into the corresponding client. Use a client that atleast support ss + ssr + vmess + trojan.
 
 Nodes filtered using speedtest measurement will be stored in following files:  
 
 * Group 1 (Contains free public nodes)
-- [Base64](https://raw.githubusercontent.com/mahdibland/ShadowsocksAggregator/master/Eternity)
-- [Mixed](https://raw.githubusercontent.com/mahdibland/ShadowsocksAggregator/master/Eternity.txt)
-- [Clash](https://raw.githubusercontent.com/mahdibland/ShadowsocksAggregator/master/Eternity.yml)
+- [Base64](https://raw.githubusercontent.com/Veosl/V2Ray/master/Eternity)
+- [Mixed](https://raw.githubusercontent.com/Veosl/V2Ray/master/Eternity.txt)
+- [Clash](https://raw.githubusercontent.com/Veosl/V2Ray/master/Eternity.yml)
 
-* Group 2 (Contains only free airports)
+* Group 2 (Contains only free airports)(*200)
 - [Base64](https://raw.githubusercontent.com/mahdibland/ShadowsocksAggregator/master/EternityAir)
 - [Mixed](https://raw.githubusercontent.com/mahdibland/ShadowsocksAggregator/master/EternityAir.txt)
 - [Clash](https://raw.githubusercontent.com/mahdibland/ShadowsocksAggregator/master/EternityAir.yml)
