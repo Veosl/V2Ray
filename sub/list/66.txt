@@ -102,15 +102,18 @@
   - {name: 45.58.126.153:19094, server: 45.58.126.153, port: 19094, type: ss, cipher: aes-256-cfb, password: 116269a6e1}
   - {name: 43.207.71.40:443, server: 43.207.71.40, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05}
   - {name: 37.143.129.230:989, server: 37.143.129.230, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3}
+  - {name: SSR, server: 14.29.124.168, port: 24008, type: ss, cipher: aes-128-cfb, password: QazEdcTgb159@$*}
+  - {name: SSR 2, server: 14.29.124.168, port: 24000, type: ss, cipher: aes-128-cfb, password: QazEdcTgb159@$*}
   - {name: "", server: hax1.freeair.eu.org, port: 80, type: vmess, uuid: 2ca15318-1015-486d-ef3e-4652102a235a, alterId: 64, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /hax1, headers: {Host: hax1.freeair.eu.org}}}
   - {name: " 2", server: Replit-v2ray.Nothingness-Voi.repl.co, port: 443, type: vmess, uuid: 7e7e8b3b-aba8-49a0-b3bb-769c88baba22, alterId: 64, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /vm, headers: {Host: Replit-v2ray.Nothingness-Voi.repl.co}}}
-  - {name: " 3", server: lsb-gy.heinu.cf, port: 2095, type: vmess, uuid: 1eda6b95-f248-4f3b-ae10-d7503415a788, alterId: 64, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /@heinuhome, headers: {Host: lsb-gy.heinu.cf}}}
-  - {name: " 4", server: rajasa.nirezzvpn.my.id, port: 80, type: vmess, uuid: de815d15-dc94-4aa2-bb9b-207f88339601, alterId: 64, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /vmessws, headers: {Host: rajasa.nirezzvpn.my.id}}}
+  - {name: " 3", server: vjp2.0bad.com, port: 443, type: vmess, uuid: 927094d3-d678-4763-8591-e240d0bcae87, alterId: 64, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /chat, headers: {Host: vjp2.0bad.com}}}
+  - {name: " 4", server: lsb-gy.heinu.cf, port: 2095, type: vmess, uuid: 1eda6b95-f248-4f3b-ae10-d7503415a788, alterId: 64, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /@heinuhome, headers: {Host: lsb-gy.heinu.cf}}}
   - {name: "", server: hax1.freeair.eu.org, port: 80, type: vmess, uuid: 2ca15318-1015-486d-ef3e-4652102a235a, alterId: 64, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /hax1, headers: {Host: hax1.freeair.eu.org}}}
   - {name: " 2", server: Replit-v2ray.Nothingness-Voi.repl.co, port: 443, type: vmess, uuid: 7e7e8b3b-aba8-49a0-b3bb-769c88baba22, alterId: 64, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /vm, headers: {Host: Replit-v2ray.Nothingness-Voi.repl.co}}}
-  - {name: " 3", server: lsb-gy.heinu.cf, port: 2095, type: vmess, uuid: 1eda6b95-f248-4f3b-ae10-d7503415a788, alterId: 64, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /@heinuhome, headers: {Host: lsb-gy.heinu.cf}}}
-  - {name: " 4", server: rajasa.nirezzvpn.my.id, port: 80, type: vmess, uuid: de815d15-dc94-4aa2-bb9b-207f88339601, alterId: 64, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /vmessws, headers: {Host: rajasa.nirezzvpn.my.id}}}
-  - {name: SSR, server: 14.29.124.168, port: 24005, type: ss, cipher: aes-128-cfb, password: QazEdcTgb159@$*}
+  - {name: " 3", server: vjp2.0bad.com, port: 443, type: vmess, uuid: 927094d3-d678-4763-8591-e240d0bcae87, alterId: 64, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /chat, headers: {Host: vjp2.0bad.com}}}
+  - {name: " 4", server: lsb-gy.heinu.cf, port: 2095, type: vmess, uuid: 1eda6b95-f248-4f3b-ae10-d7503415a788, alterId: 64, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /@heinuhome, headers: {Host: lsb-gy.heinu.cf}}}
+  - {name: SSR, server: 14.29.124.168, port: 24008, type: ss, cipher: aes-128-cfb, password: QazEdcTgb159@$*}
+  - {name: SSR 2, server: 14.29.124.168, port: 24000, type: ss, cipher: aes-128-cfb, password: QazEdcTgb159@$*}
   - {name: 157.90.4.240:19488, server: 157.90.4.240, port: 19488, type: ss, cipher: aes-256-cfb, password: e8301e5bd3}
   - {name: 45.58.126.153:19094, server: 45.58.126.153, port: 19094, type: ss, cipher: aes-256-cfb, password: 116269a6e1}
   - {name: 43.207.71.40:443, server: 43.207.71.40, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05}
