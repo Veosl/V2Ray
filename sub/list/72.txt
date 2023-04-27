@@ -1,1 +1,8 @@
-  - {name: "NULL", server: "NULL", port: 11708, type: ssr, cipher: aes-256-cfb, password: sEscPBiAD9K$&@79, protocol: origin, obfs: http_simple, protocol-param: "", obfs-param: ""}
+  - {name: _01 | 8.42Mb, server: 193.108.118.36, port: 5500, type: ss, cipher: aes-256-gcm, password: KixLvKzwjekG00rm}
+  - {name: _02 | 9.48Mb, server: 212.38.189.174, port: 6379, type: ss, cipher: aes-256-gcm, password: zDNVedRFPQexG9v}
+  - {name: _03 | 7.94Mb, server: 54.36.174.181, port: 2376, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
+  - {name: _04 | 6.95Mb, server: 193.108.118.36, port: 8888, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC}
+  - {name: _05 |20.03Mb, server: 38.75.136.135, port: 5500, type: ss, cipher: aes-256-gcm, password: KixLvKzwjekG00rm}
+  - {name: _06 | 5.66Mb, server: 169.197.141.187, port: 8080, type: ss, cipher: aes-256-gcm, password: KixLvKzwjekG00rm}
+  - {name: 🇷🇺 Relay_🇷🇺RU-🇺🇸US_07 | 4.23Mb, server: 5.188.121.136, port: 443, type: vmess, uuid: 859b9dd2-23e5-4663-abe9-aca56154a1f4, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, servername: cc66.111711.xyz, network: ws, ws-opts: {path: /bb}}
+  - {name: 🇷🇺 Relay_🇷🇺RU-🇺🇸US_08 | 7.36Mb, server: 92.223.122.170, port: 443, type: vmess, uuid: 859b9dd2-23e5-4663-abe9-aca56154a1f4, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, servername: cc66.111711.xyz, network: ws, ws-opts: {path: /bb}}
