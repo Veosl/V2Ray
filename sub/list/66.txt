@@ -111,6 +111,7 @@
   - {name: " 2", server: 36.134.16.96, port: 11023, type: vmess, uuid: 8c042a38-71c1-1dcb-00df-54880236e0dc, alterId: 64, cipher: auto, tls: false, skip-cert-verify: false}
   - {name: " 3", server: n1681279098.lyqrdde.cn, port: 443, type: vmess, uuid: b77e7c1b-10d5-48f1-9ef5-8e0d9b09cdd3, alterId: 64, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: n1681279098.lyqrdde.cn}}}
   - {name: " 4", server: 51.79.158.116, port: 10000, type: vmess, uuid: f58c872e-de04-11ed-85bf-c7dfb38a67de, alterId: 64, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /vpnjantit}}
+  - {name: SSR, server: 14.29.124.168, port: 24005, type: ss, cipher: aes-128-cfb, password: QazEdcTgb159@$*}
   - {name: 85.208.108.21:2375, server: 85.208.108.21, port: 2375, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
   - {name: 212.102.53.79:443, server: 212.102.53.79, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks}
   - {name: ak1669.www.outline.network.fr8678825324247b8176d59f83c30bd94d23d2e3ac5cd4a743bkwqeikvdyufr.cyou:443, server: ak1669.www.outline.network.fr8678825324247b8176d59f83c30bd94d23d2e3ac5cd4a743bkwqeikvdyufr.cyou, port: 443, type: ss, cipher: aes-256-gcm, password: pKEW8JPByTVTLtM}
